@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Timur\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Timur\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_MadPixelTest.1650567574.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Timur\MadPixelTest" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="2D Casual UI" t="Include">
+          <e p="Original Artwork" t="Include" />
+          <e p="Sprite" t="Include" />
+        </e>
+        <e p="Free" t="Include">
+          <e p="Prefabs" t="Include" />
+        </e>
+        <e p="NewMesh" t="Include">
+          <e p="NavMeshPlus-master" t="Include">
+            <e p="Gizmos" t="Include" />
+            <e p="NavMeshComponents" t="Include">
+              <e p="Editor" t="Include">
+                <e p="AgentOverride2dEditor.cs" t="Include" />
+                <e p="CollectSources2dEditor.cs" t="Include" />
+                <e p="CollectSourcesCache2dEditor.cs" t="Include" />
+                <e p="NavMeshAgentAttributePropertyDrawer.cs" t="Include" />
+                <e p="NavMeshAreaAttributePropertyDrawer.cs" t="Include" />
+                <e p="NavMeshAssetManager.cs" t="Include" />
+                <e p="NavMeshComponentsEditor.asmdef" t="Include" />
+                <e p="NavMeshComponentsGUIUtility.cs" t="Include" />
+                <e p="NavMeshLinkEditor.cs" t="Include" />
+                <e p="NavMeshModifierEditor.cs" t="Include" />
+                <e p="NavMeshModifierTilemapEditor.cs" t="Include" />
+                <e p="NavMeshModifierVolumeEditor.cs" t="Include" />
+                <e p="NavMeshSurfaceEditor.cs" t="Include" />
+                <e p="RootSources2dEditor.cs" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="AgentOverride2d.cs" t="Include" />
+                <e p="AgentRotate2d.cs" t="Include" />
+                <e p="AgentRotateSmooth2d.cs" t="Include" />
+                <e p="CollectSources2d.cs" t="Include" />
+                <e p="CollectSourcesCache2d.cs" t="Include" />
+                <e p="NavMeshAgentAttribute.cs" t="Include" />
+                <e p="NavMeshAreaAttribute.cs" t="Include" />
+                <e p="NavMeshBuilder2d.cs" t="Include" />
+                <e p="NavMeshBuilderState.cs" t="Include" />
+                <e p="NavMeshComponents.asmdef" t="Include" />
+                <e p="NavMeshExtension.cs" t="Include" />
+                <e p="NavMeshExtensionsProvider.cs" t="Include" />
+                <e p="NavMeshLink.cs" t="Include" />
+                <e p="NavMeshModifier.cs" t="Include" />
+                <e p="NavMeshModifierTilemap.cs" t="Include" />
+                <e p="NavMeshModifierVolume.cs" t="Include" />
+                <e p="NavMeshSurface.cs" t="Include" />
+                <e p="RootSources2d.cs" t="Include" />
+                <e p="RotateAgentInstantly.cs" t="Include" />
+                <e p="RotateAgentSmoothly.cs" t="Include" />
+              </e>
+            </e>
+            <e p="package.json" t="Include" />
+            <e p="Unity" t="Include" />
+          </e>
+        </e>
+        <e p="Scenes" t="Include">
+          <e p="Level 3" t="Include" />
+        </e>
+        <e p="Sources" t="Include">
+          <e p="Animation" t="Include">
+            <e p="Animators" t="Include" />
+          </e>
+          <e p="Materials" t="Include" />
+          <e p="Prefabs" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="Bee.cs" t="Include" />
+            <e p="Enemy.cs" t="Include" />
+            <e p="Finish.cs" t="Include" />
+            <e p="Hero.cs" t="Include" />
+            <e p="LevelUI.cs" t="Include" />
+            <e p="Line" t="Include">
+              <e p="Line.cs" t="Include" />
+              <e p="LineDrawer.cs" t="Include" />
+            </e>
+            <e p="Menu.cs" t="Include" />
+            <e p="Saw.cs" t="Include" />
+            <e p="TimeLine.cs" t="Include" />
+          </e>
+          <e p="Sprites" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Documentation" t="Include" />
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="Fonts &amp; Materials" t="Include" />
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Sprite Assets" t="Include" />
+            <e p="Style Sheets" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+            <e p="EmojiOne.json" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="MadPixelTest.sln" t="IncludeFlat" />
+      <e p="NavMeshPlus.csproj" t="IncludeRecursive" />
+      <e p="NavMeshPlusEditor.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5379b129-f700-453a-a39f-490cb59412f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/LineCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Line.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/LineDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/dfgfdgdf.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/Hero.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/Line/LineCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/Bee.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/Saw.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/Line/LineDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/TimeLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/LevelUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/Line/Line.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/Finish.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/Menu.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2WFc7aeCz4yrWYaRtdsUNKdHEgE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5379b129-f700-453a-a39f-490cb59412f5" name="Default Changelist" comment="" />
+      <created>1696331605367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696331605367</updated>
+      <workItem from="1696331610744" duration="1265000" />
+      <workItem from="1696335533322" duration="2380000" />
+      <workItem from="1696413846683" duration="3236000" />
+      <workItem from="1696421311704" duration="2663000" />
+      <workItem from="1696432799434" duration="1363000" />
+      <workItem from="1696435461016" duration="719000" />
+      <workItem from="1696443355233" duration="3179000" />
+      <workItem from="1696500342093" duration="2212000" />
+      <workItem from="1696507190236" duration="916000" />
+      <workItem from="1696512665444" duration="3875000" />
+      <workItem from="1696519928840" duration="3273000" />
+      <workItem from="1696587376597" duration="7657000" />
+      <workItem from="1696602418729" duration="1789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="136" key="RiderGenerateDialog" timestamp="1696588016883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="533" y="136" key="RiderGenerateDialog/0.0.1536.824@0.0.1536.824" timestamp="1696588016883" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1696415735946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1696415735946" />
+  </component>
+</project>
